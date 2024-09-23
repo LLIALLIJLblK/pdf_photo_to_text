@@ -10,7 +10,7 @@
 git clone https://github.com/LLIALLIJLblK pdf_photo_to_text.git
 ```
 
-### 2. Клонирование репозитория
+### 2. Установка библеотек
 pip install -r requirements.txt
 
 ```sh
